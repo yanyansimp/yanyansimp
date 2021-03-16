@@ -8,6 +8,3 @@
 yanyansimp/yanyansimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Hello I'm Rheyan Keneth. This project is for educational purposes only.
-Feel free to copy, clone or download this codebase.
