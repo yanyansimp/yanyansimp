@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yanyansimp
+- 👋 Hi, I’m Rheyan Keneth
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning frontend technologies
 - 💞️ I’m looking to collaborate on something useful and fun apps
